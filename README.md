@@ -4,7 +4,7 @@ Made by **RangerRhino23**!
 
 Stop the Infection! This world is being destroyed by a green virus that spreads. Get close to and destroy the green goo as quick as you can!
 
-This game was created during a fun game competition where Itsbailey and me had to create a game with a theme in 2 hours.
+This game was created during a fun game competition where Itsbailey and me had to create a game with a theme in 2 hours. The game theme was "Its Spreading!"
 
 You can reach RangerRhino23 by their socials:
 
